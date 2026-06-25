@@ -105,7 +105,7 @@ const jinkra = {
 | SLATT Team | PaperServer | 小雨のblog | 小柯作品站 |
 | :---: | :---: | :---: | :---: |
 | MC团队 | 纸服官方 | 小雨的主页 |  3D建模 |
-| [访问](https://slatt-team.cn) | [访问](https://paperserver.cn) | [访问](https://xiaoyuqaq.com) | [访问](https://xiaoke.info) |
+| [访问](https://slatt-team.cn) | [访问](https://paperserver.cn) | [访问](https://xyqaq.cn/) | [访问](https://xiaoke.starxv.com/) |
 
 </div>
 
@@ -125,7 +125,7 @@ const jinkra = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-@jinkra-333?style=for-the-badge&logo=github)](https://github.com/jinkra)
 [![BiliBili](https://img.shields.io/badge/Bilibili-视频内容-ff7043?style=for-the-badge&logo=bilibili)](https://space.bilibili.com)
-[![Tiktok](https://img.shields.io/badge/Douyin-抖音-ff0000?style=for-the-badge&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAVrYsqwsJpY1b8cSRvV8iFSIjPEhvbpkf_X51kk2-jQU?from_tab_name=main)
+[![Tiktok](https://img.shields.io/badge/Tiktok-抖音-ff0000?style=for-the-badge&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAVrYsqwsJpY1b8cSRvV8iFSIjPEhvbpkf_X51kk2-jQU?from_tab_name=main)
 
 ### 个人主页
 
