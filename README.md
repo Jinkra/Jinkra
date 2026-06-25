@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1a1a,40:64b5f6,100:81c784&text=Jinkra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Photographer%20%E2%80%A2%20Creator&descSize=22&descAlignY=70&descColor=b0b0b0" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1a1a,40:64b5f6,100:81c784&text=Jinkra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Photographer%20%E2%80%A2%20Creator&descSize=22&descAlignY=55&descColor=b0b0b0" alt="header" />
 
 <!-- 打字动画效果 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=24&duration=3500&pause=1000&color=64b5f6&center=true&vCenter=true&width=680&height=70&lines=%E4%B8%80%E5%88%87%E5%B0%BD%E5%B1%95%E4%BA%8E%E7%83%AD%E7%88%B1%E4%B9%8B%E7%96%86;%E5%9C%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%88%9B%E6%84%8F%E9%97%B4%E7%82%B9%E7%87%83;%E6%89%93%E9%80%A0%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E4%BD%9C%E5%93%81" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=24&duration=3500&pause=1000&color=64b5f6&center=true&vCenter=true&width=680&height=50&lines=%E4%B8%80%E5%88%87%E5%B0%BD%E5%B1%95%E4%BA%8E%E7%83%AD%E7%88%B1%E4%B9%8B%E7%96%86;%E5%9C%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%88%9B%E6%84%8F%E9%97%B4%E7%82%B9%E7%87%83;%E6%89%93%E9%80%A0%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E4%BD%9C%E5%93%81" alt="typing" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 关于我
+## 关于我
 
 ```typescript
 const jinkra = {
@@ -31,13 +31,17 @@ const jinkra = {
 };
 ```
 
-| 💎 当前打磨 | 🎯 热爱探索 | 🚀 主要方向 |
+<div align="center">
+
+| 当前打磨 | 热爱探索 | 主要方向 |
 | :---: | :---: | :---: |
 | 高质量的代码与体验 | 摄影 • 开源 • 创意技术 | 构建有意义的产品 |
 
+</div>
+
 ---
 
-## 🛠 技术栈
+## 技术栈
 
 <div align="center">
 
@@ -65,19 +69,19 @@ const jinkra = {
 
 ---
 
-## 🎨 主要方向
+##  主要方向
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/💻%20后端系统-64b5f6?style=flat-square" alt="backend" /> | <img src="https://img.shields.io/badge/🎨%20Web%20应用-81c784?style=flat-square" alt="frontend" /> | <img src="https://img.shields.io/badge/⭐%20开源项目-ffd54f?style=flat-square" alt="opensource" /> | <img src="https://img.shields.io/badge/📸%20创意内容-ff7043?style=flat-square" alt="creative" /> |
-| --- | --- | --- | --- |
+| 后端系统 | Web 应用 | 开源项目 | 创意内容 |
+| :---: | :---: | :---: | :---: |
 | 构建高性能、可扩展的服务和 API，关注架构设计和代码质量 | 使用 Vue 和 React 开发用户友好的界面，遵循现代前端最佳实践 | 参与开源项目，推动技术创新和社区发展 | 摄影和多媒体创作，记录生活、探索视觉表达 |
 
 </div>
 
 ---
 
-## 📊 GitHub 数据
+##  GitHub 数据
 
 <div align="center">
 
@@ -92,7 +96,7 @@ const jinkra = {
 
 ---
 
-## 🤝 社区与合作
+##  社区与合作
 
 <div align="center">
 
@@ -107,15 +111,15 @@ const jinkra = {
 
 ---
 
-## 📱 联系方式
+##  联系方式
 
 <div align="center">
 
 ### 快速联系
 
-[![Email](https://img.shields.io/badge/📧%20邮箱-jinkra%40paperserver.cn-ff7043?style=for-the-badge)](mailto:jinkra@paperserver.cn)
-[![QQ](https://img.shields.io/badge/💬%20QQ-2838812459-64b5f6?style=for-the-badge)](tencent://message/?uin=2838812459)
-[![Telegram](https://img.shields.io/badge/✈️%20Telegram-@jinkra-64b5f6?style=for-the-badge&logo=telegram)](https://t.me/jinkra)
+[![Email](https://img.shields.io/badge/邮箱-jinkra%40paperserver.cn-ff7043?style=for-the-badge)](mailto:jinkra@paperserver.cn)
+[![QQ](https://img.shields.io/badge/QQ-2838812459-64b5f6?style=for-the-badge)](tencent://message/?uin=2838812459)
+[![Telegram](https://img.shields.io/badge/Telegram-@jinkra-64b5f6?style=for-the-badge&logo=telegram)](https://t.me/jinkra)
 
 ### 社交平台
 
@@ -125,17 +129,17 @@ const jinkra = {
 
 ### 个人主页
 
-[![Website](https://img.shields.io/badge/🌐%20个人主页-jinkra.slatt.cn-64b5f6?style=for-the-badge)](https://jinkra.slatt.cn)
+[![Website](https://img.shields.io/badge/个人主页-jinkra.slatt.cn-64b5f6?style=for-the-badge)](https://jinkra.slatt.cn)
 
 </div>
 
 ---
 
-## 💡 当前关注
+##  当前关注
 
 <div align="center">
 
-| 🏗️ 系统设计 | 🎯 开发者体验 | 🔓 开源贡献 | 🎬 视觉叙事 |
+| 系统设计 | 开发者体验 | 开源贡献 | 视觉叙事 |
 | :---: | :---: | :---: | :---: |
 | 构建健壮、可扩展的架构 | 打造愉悦的开发工具和框架 | 参与有意义的项目 | 融合摄影与技术的表达方式 |
 
@@ -143,23 +147,45 @@ const jinkra = {
 
 ---
 
-## 🎯 个人信念
+##  交互体验
 
 <div align="center">
 
-> **💎 把喜欢的事情认真做好，每天进步一点点。**
+### 完整演示与交互中心
 
-> **🎨 在热爱中发现无限可能，在坚持中成就梦想。**
+**[点击进入交互体验中心](./interactive.html)** — 包含完整的动画、按钮、加载器和交互效果
 
-> **🚀 技术是工具，创意是灵魂，两者结合才能改变世界。**
+这个页面集成了：
+- 动态背景动画（网格 + 悬浮球）
+- 多种按钮交互效果
+- 加载器和旋转动画
+- 完整的响应式设计
+- 平滑滚动导航
+- 丰富的视觉效果展示
 
-> **⭐ 不是所有的牺牲都值得，但所有的坚持都有意义。**
+**或者直接访问我的个人主页了解更多：** [jinkra.slatt.cn](https://jinkra.slatt.cn)
 
 </div>
 
 ---
 
-## 📸 项目与成就
+##  个人信念
+
+<div align="center">
+
+> 把喜欢的事情认真做好，每天进步一点点。
+
+> 在热爱中发现无限可能，在坚持中成就梦想。
+
+> 技术是工具，创意是灵魂，两者结合才能改变世界。
+
+> 不是所有的牺牲都值得，但所有的坚持都有意义。
+
+</div>
+
+---
+
+##  项目与成就
 
 <details open>
 <summary><strong>点击展开我的主要项目和成就</strong></summary>
@@ -183,44 +209,13 @@ const jinkra = {
 
 ---
 
-## 🎬 交互体验
-
-<div align="center">
-
-### 快速导航
-
-<details>
-<summary><strong>🔗 点击展开所有链接</strong></summary>
-
-**开发平台**
-- [GitHub](https://github.com/jinkra) — 代码库和项目
-- [Gitee](https://gitee.com/jinkra) — 国内代码托管
-- [CSDN](https://csdn.net) — 技术文章
-- [AtomGit](https://atom.git) — 代码协作
-
-**内容平台**
-- [BiliBili](https://space.bilibili.com) — 视频教程
-- [个人主页](https://jinkra.slatt.cn) — 完整作品集
-- [博客](https://blog.paperserver.cn) — 技术分享
-
-**社交媒体**
-- [抖音](https://douyin.com) — 短视频
-- [微博](https://weibo.com) — 日常分享
-- 邮箱：jinkra@paperserver.cn
-
-</details>
-
-</div>
-
----
-
-## 🌟 数据统计
+##  数据统计
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────┐
-│  📊 你的 GitHub 数据概览             │
+│   你的 GitHub 数据概览             │
 ├─────────────────────────────────────┤
 │  开源项目数    👉  持续增长中         │
 │  技术栈深度    👉  多语言 Full Stack  │
@@ -233,29 +228,29 @@ const jinkra = {
 
 ---
 
-## 💬 想要合作？
+##  想要合作？
 
 <div align="center">
 
 我总是对以下事项感兴趣：
 
-- 🤝 **技术合作** — 共同开发有趣的项目
-- 📝 **知识分享** — 撰写技术文章或录制教程
-- 🎨 **创意项目** — 融合技术和艺术的作品
-- 💼 **职业机会** — 全职、兼职或自由职业项目
+-  **技术合作** — 共同开发有趣的项目
+-  **知识分享** — 撰写技术文章或录制教程
+-  **创意项目** — 融合技术和艺术的作品
+-  **职业机会** — 全职、兼职或自由职业项目
 
 **立即联系我：**
 
-- 📧 [发送邮件](mailto:jinkra@paperserver.cn)
-- 💬 [QQ 联系](tencent://message/?uin=2838812459)
-- ✈️ [Telegram](https://t.me/jinkra)
-- 🌐 [访问主页](https://jinkra.slatt.cn)
+-  [发送邮件](mailto:jinkra@paperserver.cn)
+-  [QQ 联系](tencent://message/?uin=2838812459)
+-  [Telegram](https://t.me/jinkra)
+-  [访问主页](https://jinkra.slatt.cn)
 
 </div>
 
 ---
 
-## 🏆 特别感谢
+##  特别感谢
 
 <div align="center">
 
@@ -270,7 +265,7 @@ const jinkra = {
 
 <br/>
 
-### 📈 访问统计
+###  访问统计
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkra&style=flat-square&color=64b5f6&label=Total%20Views)
 
@@ -280,6 +275,6 @@ const jinkra = {
 
 <p style="color: #888; font-size: 13px;">用心打磨 • 定期更新 • 持续学习</p>
 
-<sub>Made with passion by Jinkra · Last updated 2026 · 🚀 Always improving</sub>
+<sub>Made with passion by Jinkra · Last updated 2026 ·  Always improving</sub>
 
 </div>
