@@ -124,7 +124,7 @@ const jinkra = {
 ### 社交平台
 
 [![GitHub](https://img.shields.io/badge/GitHub-@jinkra-333?style=for-the-badge&logo=github)](https://github.com/jinkra)
-[![BiliBili](https://img.shields.io/badge/Bilibili-视频内容-ff7043?style=for-the-badge&logo=bilibili)](https://space.bilibili.com)
+[![BiliBili](https://img.shields.io/badge/Bilibili-Bilibili-ff7043?style=for-the-badge&logo=bilibili)](https://space.bilibili.com)
 [![Tiktok](https://img.shields.io/badge/Tiktok-抖音-ff0000?style=for-the-badge&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAVrYsqwsJpY1b8cSRvV8iFSIjPEhvbpkf_X51kk2-jQU?from_tab_name=main)
 
 ### 个人主页
