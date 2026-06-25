@@ -2,71 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1a1a,40:64b5f6,100:81c784&text=Jinkra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Photographer%20%E2%80%A2%20Creator&descSize=22&descAlignY=55&descColor=b0b0b0" alt="header" />
 
-<style>
-  .typing-wrapper {
-    position: relative;
-    margin: 30px 0;
-    padding: 40px;
-    background: linear-gradient(135deg, rgba(100, 181, 246, 0.08) 0%, rgba(129, 199, 132, 0.08) 100%);
-    border-radius: 12px;
-    border: 1px solid rgba(100, 181, 246, 0.15);
-    backdrop-filter: blur(10px);
-  }
-  
-  .typing-wrapper::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(90deg, rgba(100, 181, 246, 0.1) 0%, rgba(129, 199, 132, 0.1) 50%, rgba(255, 213, 79, 0.05) 100%);
-    animation: shimmer 4s ease-in-out infinite;
-    pointer-events: none;
-    border-radius: 12px;
-  }
-  
-  .typing-text {
-    position: relative;
-    z-index: 1;
-    background: linear-gradient(90deg, #64b5f6, #81c784, #ffd54f, #64b5f6);
-    background-size: 300% 100%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    animation: gradientFlow 8s ease-in-out infinite;
-    font-weight: 800;
-    font-size: 32px;
-  }
-  
-  @keyframes shimmer {
-    0% {
-      transform: translateX(-100%);
-    }
-    100% {
-      transform: translateX(100%);
-    }
-  }
-  
-  @keyframes gradientFlow {
-    0% {
-      background-position: 0% center;
-    }
-    50% {
-      background-position: 100% center;
-    }
-    100% {
-      background-position: 0% center;
-    }
-  }
-</style>
-
-<!-- 打字动画效果 - 渐变色版本 -->
-<div class="typing-wrapper">
-  <div class="typing-text" style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=32&duration=4000&pause=1500&color=64b5f6&center=true&vCenter=true&width=800&height=80&lines=%E4%B8%80%E5%88%87%E5%B0%BD%E5%B1%95%E4%BA%8E%E7%83%AD%E7%88%B1%E4%B9%8B%E7%96%86;%E5%9C%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%88%9B%E6%84%8F%E9%97%B4%E7%82%B9%E7%87%83;%E6%89%93%E9%80%A0%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E4%BD%9C%E5%93%81" alt="typing" />
-  </div>
-</div>
+<!-- 打字动画效果 - 渐变彩色版本 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=36&duration=4000&pause=1500&color=64b5f6&center=true&vCenter=true&width=900&height=90&lines=%E4%B8%80%E5%88%87%E5%B0%BD%E5%B1%95%E4%BA%8E%E7%83%AD%E7%88%B1%E4%B9%8B%E7%96%86;%E5%9C%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%88%9B%E6%84%8F%E9%97%B4%E7%82%B9%E7%87%83;%E6%89%93%E9%80%A0%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E4%BD%9C%E5%93%81" alt="typing" />
 
 <br/>
 
