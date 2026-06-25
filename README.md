@@ -102,9 +102,9 @@ const jinkra = {
 
 ### 友情链接
 
-| SLATT Team | PaperServer | 小雨のblog | 小柯工作室 |
+| SLATT Team | PaperServer | 小雨のblog | 小柯作品站 |
 | :---: | :---: | :---: | :---: |
-| 技术社区 | 纸服平台 | 个人空间 | 创意工作 |
+| MC团队 | 纸服官方 | 小雨的主页 |  3D建模 |
 | [访问](https://slatt-team.cn) | [访问](https://paperserver.cn) | [访问](https://xiaoyuqaq.com) | [访问](https://xiaoke.info) |
 
 </div>
@@ -119,13 +119,13 @@ const jinkra = {
 
 [![Email](https://img.shields.io/badge/邮箱-jinkra%40paperserver.cn-ff7043?style=for-the-badge)](mailto:jinkra@paperserver.cn)
 [![QQ](https://img.shields.io/badge/QQ-2838812459-64b5f6?style=for-the-badge)](tencent://message/?uin=2838812459)
-[![Telegram](https://img.shields.io/badge/Telegram-@jinkra-64b5f6?style=for-the-badge&logo=telegram)](https://t.me/jinkra)
+[![Feishu](https://img.shields.io/badge/飞书-Jinkra-64b5f6?style=for-the-badge&logo=feishu)](https://jinkra.slatt.cn)
 
 ### 社交平台
 
 [![GitHub](https://img.shields.io/badge/GitHub-@jinkra-333?style=for-the-badge&logo=github)](https://github.com/jinkra)
 [![BiliBili](https://img.shields.io/badge/Bilibili-视频内容-ff7043?style=for-the-badge&logo=bilibili)](https://space.bilibili.com)
-[![CSDN](https://img.shields.io/badge/CSDN-技术博客-81c784?style=for-the-badge&logo=c)](https://csdn.net)
+[![Tiktok](https://img.shields.io/badge/Douyin-抖音-ff0000?style=for-the-badge&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAVrYsqwsJpY1b8cSRvV8iFSIjPEhvbpkf_X51kk2-jQU?from_tab_name=main)
 
 ### 个人主页
 
@@ -147,29 +147,7 @@ const jinkra = {
 
 ---
 
-##  交互体验
-
-<div align="center">
-
-### 完整演示与交互中心
-
-**[点击进入交互体验中心](./interactive.html)** — 包含完整的动画、按钮、加载器和交互效果
-
-这个页面集成了：
-- 动态背景动画（网格 + 悬浮球）
-- 多种按钮交互效果
-- 加载器和旋转动画
-- 完整的响应式设计
-- 平滑滚动导航
-- 丰富的视觉效果展示
-
-**或者直接访问我的个人主页了解更多：** [jinkra.slatt.cn](https://jinkra.slatt.cn)
-
-</div>
-
----
-
-##  个人信念
+## 个人信念
 
 <div align="center">
 
@@ -190,10 +168,11 @@ const jinkra = {
 <details open>
 <summary><strong>点击展开我的主要项目和成就</strong></summary>
 
-### 开源项目
-- **SLATT Team** — 活跃的技术社区和开源组织
-- **PaperServer** — 社区驱动的纸质服务平台
-- 多个前端和后端开源项目
+### 上线项目
+- **SLATT Team** — Minecraft多元领域创作团队
+- **PaperServer** — 纸服社区-一个MC粉丝服务器
+- **多个资源中心和知识库体系** 
+- 多个前端和后端开发项目
 
 ### 技术贡献
 - 参与开源生态建设
@@ -216,8 +195,8 @@ const jinkra = {
 感谢以下项目和社区的支持与灵感：
 
 - **GitHub** — 开源代码托管平台
-- **SLATT Team** — 技术社区
-- **PaperServer** — 社区合作伙伴
+- **SLATT Team** — 多元社区
+- **PaperServer** — 合作伙伴
 - 所有贡献者和支持者
 
 ---
