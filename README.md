@@ -105,7 +105,7 @@ const jinkra = {
 | SLATT Team | PaperServer | 小雨のblog | 小柯作品站 |
 | :---: | :---: | :---: | :---: |
 | MC团队 | 纸服官方 | 小雨的主页 |  3D建模 |
-| [访问](https://slatt.cn) | [访问](https://paperserver.cn) | [访问](https://xyqaq.cn/) | [访问](https://xiaoke.starxv.com/) |
+| [访问](https://slatt.cn) | [访问](https://paperserver.cn) | [访问](https://xyqaq.cn/) | [访问](https://xiaoke.slatt.cn/) |
 
 </div>
 
